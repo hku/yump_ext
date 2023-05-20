@@ -6,9 +6,9 @@
           "description": "a repository of prompts samples",
           "url": "https://github.com/hku/chatgpt-prompts-sample"
       }, {
-        "name": "prompts sample",
-        "description": "a repository of prompts samples",
-        "url": "https://github.com/hku/chatgpt-prompts-sample"
+        "name": "中文prompts示例",
+        "description": "中文prompts示例",
+        "url": "https://github.com/hku/chinese-prompts-sample"
     }
     ]
   }
