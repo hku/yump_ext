@@ -5,6 +5,10 @@
           "name": "prompts sample",
           "description": "a repository of prompts samples",
           "url": "https://github.com/hku/chatgpt-prompts-sample"
-      }
+      }, {
+        "name": "prompts sample",
+        "description": "a repository of prompts samples",
+        "url": "https://github.com/hku/chatgpt-prompts-sample"
+    }
     ]
   }
