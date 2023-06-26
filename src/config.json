@@ -7,6 +7,11 @@
           "url": "https://github.com/hku/chatgpt-prompts-sample",
           "author": "hk"
       }, {
+        "name": "Awesome English Prompts",
+        "description": "Awesome English Prompts",
+        "url": "https://github.com/hku/awesome-prompts-en",
+        "author": "hk"
+    }, {
         "name": "中文prompts示例",
         "description": "中文prompts示例",
         "url": "https://github.com/hku/chinese-prompts-sample",
